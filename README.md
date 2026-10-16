@@ -7,6 +7,6 @@
 <img width="1342" height="930" alt="CD6B96BF83FE26BFB2530247431A00C3" src="https://github.com/user-attachments/assets/90d9b824-8460-4b1c-98f1-bb8b091cc2bd" />
 <img width="1521" height="620" alt="CD56830465ACD528C7363292F8B6A795" src="https://github.com/user-attachments/assets/7346c480-8b29-4cb3-b576-9319f4edc98c" />
 <img width="4560" height="7879" alt="图层 6" src="https://github.com/user-attachments/assets/391bcdbc-2ce0-43bc-ac39-298215eeb1a4" />
-<img width="2144" height="3649" alt="B821461406A0F23A6C839A9F2B13A47C" src="https://github.com/user-attachments/assets/3e0ce1cd-f1c7-4acd-8269-cb1ede957827" />
+
 <img width="1080" height="1920" alt="81B5E5D5F2A4A5E1F421B27A99793BF5" src="https://github.com/user-attachments/assets/e3b3b037-7fce-44e0-8270-4b127f4c3729" />
 <img width="1407" height="749" alt="73C33B71082F39AFD7CED5E32F9DEC88" src="https://github.com/user-attachments/assets/93cd1638-8f49-408d-ad33-675eaab0f3d5" />
