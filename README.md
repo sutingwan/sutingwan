@@ -7,14 +7,14 @@
 <img width="2732" height="1534" alt="资源 3" src="https://github.com/user-attachments/assets/bec54bc2-b941-4cad-8ea2-019ee226d05d" />
 <img width="1920" height="1213" alt="三折叠 反" src="https://github.com/user-attachments/assets/23a199d1-ecf4-4c46-8cd0-aec73a5c5e36" />
                                                                                                                                                                                                                          
-2、轻食电商等项目
+2、轻食电商等项目                                                                                                                                                                                                                        
 <img width="1376" height="3200" alt="拼接首屏图" src="https://github.com/user-attachments/assets/daaaff23-52fc-44f3-989f-f98f43919ee8" />
 <img width="733" height="6832" alt="画板 2" src="https://github.com/user-attachments/assets/7078cc18-e564-4820-9159-c96ef6a8eb95" />
 <img width="731" height="6347" alt="画板 1" src="https://github.com/user-attachments/assets/3177fe72-571b-48fb-b6b5-b06f2267cb57" />
 <img width="731" height="2060" alt="画板 1 拷贝" src="https://github.com/user-attachments/assets/de56754b-2d45-4629-8cd7-52cd369d208f" />
 <img width="733" height="1305" alt="低脂高纤_一餐饱腹 拷贝" src="https://github.com/user-attachments/assets/dbbd4571-74fb-4004-99de-a4ccc259b929" />
                                                                                                                                                                                                                          
-3、咕噜小胖
+3、咕噜小胖                                                                                                                                                                                                                        
 <img width="1145" height="710" alt="资源 18" src="https://github.com/user-attachments/assets/7ba174cf-8a46-4e1b-a6c1-842396dc3aa8" />
 <img width="2732" height="1534" alt="图层 1" src="https://github.com/user-attachments/assets/9eed5372-76d0-44f5-8282-1c684a878c68" />
 <img width="2732" height="1534" alt="背景" src="https://github.com/user-attachments/assets/221dca50-6be3-4b80-9085-4554d6c925c6" />
